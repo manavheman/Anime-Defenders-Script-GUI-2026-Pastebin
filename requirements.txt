@@ -1,0 +1,7 @@
+scipy
+numpy
+keyboard
+pillow
+pynput
+requests
+rich
